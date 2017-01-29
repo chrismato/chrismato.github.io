@@ -183,7 +183,7 @@
             }
           },
           "title": "Christopher Mato",
-          "text": "My name is Christopher Mato. I'm 13 years old in 8th Grade. My two main hobbies are sports and video games. The video games I play are games like the one shown in the background (<i>Mike Tyson's Punch Out!!</i> 1987). This game is very special to me, because it basically convinced me to be a professional boxer when I grow up. The types of sports I play are Football, Basketball, Baseball, and Soccer. Although I'm not very good at two of these, it's still a ton of fun to play. My dream goal is to become heavyweight champion.",
+          "text": "My name is Christopher Mato. I'm 13 years old in 8th Grade. My two main hobbies are sports and video games. The video games I play are games like the one shown in the background (<i>Mike Tyson's Punch Out!!</i> 1987). The types of sports I play are Football, Basketball, Baseball, and Soccer. Although I'm not very good at two of these, it's still a ton of fun to play. My dream is to become a video game designer.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -219,21 +219,6 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "trophy",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "Boxer",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A career that I really want to take on when I'm older is to become a professional boxer. My dream goal is to become heavyweight champion.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
               "name": "playstation",
               "family": "socicon",
               "active": true,
@@ -241,11 +226,11 @@
               "size": 0
             }
           },
-          "title2": "Video Game Designer",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being a video game designer isn't as important to me as being a boxer, but it'd be great to have this as a side-job.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
+          "title1": "Video Game Designer<br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Video Games have always been a big part of my life, and I have always wanted to make my own!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
@@ -256,11 +241,11 @@
               "size": 0
             }
           },
-          "title3": "Video Editor",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I always like to edit random movies on programs like iMovie or Premiere. And now that this is kind of growing on me, I might take this on as a career!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
+          "title2": "Video Editor",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Being a video editor might not sound as awesome or epic as designing your own video games, but I have quite a bit of skills from applications like iMovie, Final Cut Pro X, and Adobe Premiere Pro. I've already had people tell me that my editing is really creative, which really motivates me to take on different jobs as a video editor.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
@@ -271,9 +256,24 @@
               "size": 0
             }
           },
-          "title4": "Youtuber",
+          "title3": "YouTuber",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Sure, it's pretty hard to get people to watch your videos on YouTube, but I can use my Video Game Designing and Video Editing skills&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "trophy",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Boxer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "If these three other careers don't work out, I can always take on YouTube! Sure, it's really hard to get attention on there, but my two skills of Video Game Designing and Video Editing can both be used for YouTube!",
+          "caption4": "I was inspired by Muhammed Ali to become a boxer, because I found out that he became a boxer because he wasn't really good at anything else. So, if I don't get to become any of the careers that I wanted to become, boxing will be my \"backup.\"",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
