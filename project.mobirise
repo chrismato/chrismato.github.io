@@ -438,6 +438,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -464,15 +472,7 @@
             "showBullets": true
           },
           "_anchor": "slider-c",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
