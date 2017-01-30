@@ -482,6 +482,18 @@ h6,
 #msg-box6-6 .lead p {
   color: #fff;
 }
+#features6-7 H4 {
+  color: #000000;
+}
+#features6-7 P {
+  color: #000000;
+}
+#contacts1-15 STRONG {
+  color: #000000;
+}
+#contacts1-15 P {
+  color: #000000;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -548,12 +560,6 @@ h6,
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
   background-color: #000000;
-}
-#slider-c H2 {
-  text-align: right;
-}
-#slider-c P {
-  text-align: right;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -957,9 +963,9 @@ h6,
 #menu-12 .close-icon::after {
   background-color: #000000;
 }
-#header5-14 .mbr-section-title {
-  color: #ffffff;
+#form1-17 .form-control-label {
+  color: #232323;
 }
-#header5-14 .mbr-section-lead {
-  color: #ffffff;
+#form1-17 SMALL {
+  color: #000000;
 }
