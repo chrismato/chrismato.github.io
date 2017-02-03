@@ -478,15 +478,15 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
-#msg-box6-6 .mbr-section-title,
-#msg-box6-6 .lead p {
-  color: #fff;
+#header1-1f .mbr-section-title {
+  color: #000000;
 }
 #features6-7 H4 {
   color: #000000;
 }
 #features6-7 P {
   color: #000000;
+  text-align: left;
 }
 #contacts1-15 STRONG {
   color: #000000;
@@ -967,5 +967,78 @@ h6,
   color: #232323;
 }
 #form1-17 SMALL {
+  color: #000000;
+}
+#menu-1i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1i .navbar-caption {
+  color: #ffffff;
+}
+#menu-1i .navbar-toggler {
+  color: #000000;
+}
+#menu-1i .link,
+#menu-1i .dropdown-item {
+  color: #000000;
+}
+#menu-1i .link {
+  font-size: 0.85rem;
+}
+#menu-1i .dropdown-item,
+#menu-1i .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-1i .link:hover,
+#menu-1i .dropdown-item:hover,
+#menu-1i .link:focus,
+#menu-1i .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-menu {
+  background: #307193;
+}
+#menu-1i .nav-dropdown-sm .link:focus,
+#menu-1i .nav-dropdown-sm .link:hover,
+#menu-1i .nav-dropdown-sm .dropdown-item:focus,
+#menu-1i .nav-dropdown-sm .dropdown-item:hover {
+  background: #3985ad!important;
+}
+#menu-1i .navbar,
+#menu-1i .nav-dropdown-sm,
+#menu-1i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1i .nav-dropdown-sm .dropdown-menu {
+  background: #3d8eb9;
+}
+#menu-1i .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-1i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1i .bg-color.transparent.opened .link:hover,
+#menu-1i .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1i .close-icon::before,
+#menu-1i .close-icon::after {
+  background-color: #000000;
+}
+#header5-1l .mbr-section-title {
+  color: #000;
+}
+#header5-1l .mbr-section-lead {
   color: #000000;
 }
