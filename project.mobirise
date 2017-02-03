@@ -61,13 +61,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
+              "background": "#1483be"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
+              "background": "#1899de!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#1ea1e7"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -96,7 +96,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -315,7 +315,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#205997",
+            "bgColor": "#1a7eec",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -418,7 +418,7 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -633,7 +633,7 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -841,7 +841,7 @@
           "_name": "menu",
           "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -1056,7 +1056,7 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -1264,7 +1264,7 @@
           "_name": "menu",
           "_anchor": "menu-m",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -1472,7 +1472,7 @@
           "_name": "menu",
           "_anchor": "menu-p",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -1680,7 +1680,7 @@
           "_name": "menu",
           "_anchor": "menu-12",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
@@ -1820,13 +1820,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
+              "background": "#1483be"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
+              "background": "#1899de!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#1ea1e7"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1855,7 +1855,7 @@
           "_name": "menu",
           "_anchor": "menu-1i",
           "_params": {
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1ea1e7",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
