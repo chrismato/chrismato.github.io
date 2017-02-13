@@ -478,8 +478,11 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
-#header1-1f .mbr-section-title {
-  color: #000000;
+#header2-1r .mbr-section-title {
+  color: #ffffff;
+}
+#header2-1r .mbr-section-text {
+  color: #ffffff;
 }
 #features6-7 H4 {
   color: #000000;
