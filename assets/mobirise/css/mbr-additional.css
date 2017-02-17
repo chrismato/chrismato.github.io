@@ -478,8 +478,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
-#msg-box6-1y .mbr-section-title,
-#msg-box6-1y .lead p {
+#content8-20 .mbr-section-title,
+#content8-20 p {
+  text-align: right;
   color: #fff;
 }
 #features6-7 H4 {
