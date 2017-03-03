@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 106,
+    "uniqCompNum": 108,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -137,7 +137,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/header-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -513,7 +513,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -796,7 +796,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1072,7 +1072,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1355,7 +1355,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1631,7 +1631,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1907,7 +1907,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2183,7 +2183,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2428,7 +2428,7 @@
               "src": "@PROJECT_PATH@/assets/images/boxinggloveicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2834,10 +2834,10 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery3",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "images": [
               {
                 "tags": "Awesome",
@@ -2913,15 +2913,15 @@
                 "caption": "Type caption here"
               }
             ],
-            "spacing": 1,
+            "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-2x",
+          "_anchor": "gallery2-2z",
           "articleLayout": false,
           "allItem": "All"
         },
