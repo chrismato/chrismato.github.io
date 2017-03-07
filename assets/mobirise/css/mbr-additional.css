@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -494,6 +495,19 @@ h6,
 }
 #msg-box1-2d H3 {
   color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#header3-31 .mbr-section-title,
+#header3-31 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-31 H3 {
+  text-align: right;
+}
+#header3-31 SPAN {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header3-2b .mbr-section-title,
