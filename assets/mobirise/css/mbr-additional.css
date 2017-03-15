@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -495,19 +494,6 @@ h6,
 }
 #msg-box1-2d H3 {
   color: #ffffff;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-#header3-31 .mbr-section-title,
-#header3-31 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-31 H3 {
-  text-align: right;
-}
-#header3-31 SPAN {
-  color: #ffffff;
-  font-size: 36px;
-  text-align: center;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header3-2b .mbr-section-title,
@@ -1244,5 +1230,90 @@ h6,
   color: #ffffff;
 }
 #contacts1-2v P {
+  color: #ffffff;
+}
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-32 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-32 .navbar-caption {
+  color: #ffffff;
+}
+#menu-32 .navbar-toggler {
+  color: #000000;
+}
+#menu-32 .link,
+#menu-32 .dropdown-item {
+  color: #000000;
+}
+#menu-32 .link {
+  font-size: 0.8rem;
+}
+#menu-32 .dropdown-item,
+#menu-32 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-32 .link:hover,
+#menu-32 .dropdown-item:hover,
+#menu-32 .link:focus,
+#menu-32 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-32 .link[aria-expanded="true"],
+#menu-32 .dropdown-menu {
+  background: #3e295f;
+}
+#menu-32 .nav-dropdown-sm .link:focus,
+#menu-32 .nav-dropdown-sm .link:hover,
+#menu-32 .nav-dropdown-sm .dropdown-item:focus,
+#menu-32 .nav-dropdown-sm .dropdown-item:hover {
+  background: #4e3477!important;
+}
+#menu-32 .navbar,
+#menu-32 .nav-dropdown-sm,
+#menu-32 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-32 .nav-dropdown-sm .dropdown-menu {
+  background: #553982;
+}
+#menu-32 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-32 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-32 .bg-color.transparent.opened .link:hover,
+#menu-32 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-32 .link[aria-expanded="true"],
+#menu-32 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-32.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-32 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-32 .close-icon::before,
+#menu-32 .close-icon::after {
+  background-color: #000000;
+}
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3a .mbr-section-title,
+#header3-3a .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts1-33 STRONG {
+  color: #ffffff;
+}
+#contacts1-33 P {
   color: #ffffff;
 }
