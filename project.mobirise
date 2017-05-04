@@ -23,7 +23,7 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 123,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///E:",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -3452,7 +3452,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=Mgp-QMyzKGI",
+              "src": "https://www.youtube.com/watch?v=CC4n6yD-5j8&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
